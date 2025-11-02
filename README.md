@@ -1,2 +1,6 @@
 # VaultPay Docs
-Run: pip install mkdocs-material && mkdocs serve
+MkDocs Material documentation.  
+Run locally:
+```bash
+pip install mkdocs-material
+mkdocs serve
